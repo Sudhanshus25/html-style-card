@@ -7,4 +7,4 @@ In this if you will hover over the <b>'Read more'</b> button the color will get 
 For this I have used <b>'::hover'</b> property to change color of the button on mouse hover.
 
 # Preview 
-The preview of this project can be seen here => [Card](https://sudhanshus25.github.io/profile-card/)
+The preview of this project can be seen here => [Card](https://sudhanshus25.github.io/html-style-card/)
